@@ -7,6 +7,18 @@
 
 A modular industrial vision inspection system for detecting nails and measuring board alignment using YOLO models and industrial cameras.
 
+## Images
+
+
+<img width="2565" height="1437" alt="Screenshot 2025-05-29 205029" src="https://github.com/user-attachments/assets/fac8b58c-f171-400c-b463-78ce71b82e3f" />
+
+![Stringer-topboard-alignemnt-measurement](https://github.com/user-attachments/assets/8592765d-579f-416f-827c-a2ad25763a94)
+
+![Nails_image](https://github.com/user-attachments/assets/832c1e77-1654-4d2c-9a8d-1a762efa27ea)
+
+![stringers](https://github.com/user-attachments/assets/c0bd9901-654e-4f51-b6ba-886c0ea3be1b)
+
+
 ## 🚀 Quick Start
 
 ```bash
