@@ -11,7 +11,7 @@ A modular industrial vision inspection system for detecting nails and measuring 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Flex001.git
+git clone https://github.com/sampsmith/Flex.git
 cd Flex001
 
 # Install dependencies
@@ -32,7 +32,7 @@ python main.py
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Flex001.git
+   git clone https://github.com/sampsmith/Flex.git
    cd Flex001
    ```
 
