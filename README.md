@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)](https://opencv.org/)
 
-A modular industrial vision inspection system for detecting nails and measuring board alignment using YOLO models and industrial cameras.
+A rule based vison application to detect misaligned boards on a pallet production line. 
 
 ## Images
 
